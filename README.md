@@ -2,7 +2,7 @@
 
 <h1 align="center">Senior Full stack Developer.</h1>
 <p align="center">
-  <a href="https://github.com/mkwebwizard">
+  <a href="https://github.com/andrii810">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=1000&center=true&width=500&height=50&lines=Senior+Full+stack+Developer;8%2B+years+of+hands+on+experience;Determined+problem+solver+" alt="Typing SVG" />
   </a>
 </p>
