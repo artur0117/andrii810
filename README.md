@@ -2,7 +2,7 @@
 
 <h1 align="center">Senior Full stack Developer.</h1>
 <p align="center">
-  <a href="https://github.com/andrii810">
+  <a href="https://github.com/artur0117">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=1000&center=true&width=500&height=50&lines=Senior+Full+stack+Developer;8%2B+years+of+hands+on+experience;Determined+problem+solver+" alt="Typing SVG" />
   </a>
 </p>
@@ -181,20 +181,20 @@ With 8+ years of full-stack web development experience for global businesses, I 
 
 ---
 
-<img align="right" src="https://komarev.com/ghpvc/?username=andrii810"/>
+<img align="right" src="https://komarev.com/ghpvc/?username=artur0117"/>
 <br />
 <br />
-<a  align="left" href="https://github.com/andrii810" title="Go to Source">
-  <img width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=andrii810&theme=react&border=61dafb&hide_border=true" alt="andrii810" />
+<a  align="left" href="https://github.com/artur0117" title="Go to Source">
+  <img width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=artur0117&theme=react&border=61dafb&hide_border=true" alt="artur0117" />
 </a>
 <div>
-  <img align="left" alt="andrii810's Github Stats" src="https://github-readme-stats.vercel.app/api?username=andrii810&theme=github_dark&show_icons=true&hide_border=false" />
-  <a align="left" href="https://github.com/andrii810">
-  <img width=325 alt="andrii810" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrii810&hide=c%23,powershell,Mathematica,Ruby,%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+  <img align="left" alt="artur0117's Github Stats" src="https://github-readme-stats.vercel.app/api?username=artur0117&theme=github_dark&show_icons=true&hide_border=false" />
+  <a align="left" href="https://github.com/artur0117">
+  <img width=325 alt="artur0117" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artur0117&hide=c%23,powershell,Mathematica,Ruby,%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
 </a>
 </div>
 
-<img src="https://github-profile-trophy.vercel.app/?username=andrii810&theme=gruvbox&no-frame=true&margin-w=30&margin-h=20" />
+<img src="https://github-profile-trophy.vercel.app/?username=artur0117&theme=gruvbox&no-frame=true&margin-w=30&margin-h=20" />
 <br>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=andrii810&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=artur0117&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true)
